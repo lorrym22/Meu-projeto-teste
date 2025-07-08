@@ -1,0 +1,11 @@
+{
+  "name": "meu-projeto-teste",
+  "version": "1.0.0",
+  "description": "Projeto de teste com HTML, CSS e JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "start": "echo 'Projeto estático. Use um servidor como Live Server.'"
+  },
+  "author": "",
+  "license": "MIT"
+}
